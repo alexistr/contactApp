@@ -5,12 +5,12 @@
 User would first land at the **login** page.
 
 ## login page
-User should see a **login** box and **create an account** page.
+The user should see a **login** box and **create an account** page.
 In **login box** the user would enter its credential and click login button.
-If authentication succeeds user would be redirected to its **dashboard** otherwise to **login error** page.
+If authentication succeeds the user would be redirected to its **dashboard** otherwise to **login error** page.
 
 ## create an account page
-User would choose a login/password and save it so its account is created. Then it would be redirected to **dashboard** page.
+The user would choose a login/password and save it so its account is created. Then he would be redirected to **dashboard** page.
 
 ## login error page
 The user would see an authentication error message and a link to go back to **login** page.
